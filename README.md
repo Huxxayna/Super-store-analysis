@@ -25,3 +25,5 @@ this data contain information about a superstore,which includes the order id,ord
 - The year with the highest number of order is 2017 and the month with the highest number of order is December
 - there was a total sales of 2.30 million US dollars and a profit of 286.40 thousand US dollars
 - the amount of sales by the top 5 product are 61,599.82k, 27,453.38k, 22,638.48k, 21,870.58k, and 19,823.48k while for the bottom 5 product are 7.70, 7.70, 6.48,5.76 and 1.62
+- the total amount made by each categories for Technology is 836,150.03k, Funiture is 741,999.08k and for Office Supplies is 719,047.03
+- where the total number of product for each category are Office Supplies = 1083, Technology = 404, Funiture = 375 and for sub category we have PhoneS = 184, Accessories = 144, and Machines = 63.
